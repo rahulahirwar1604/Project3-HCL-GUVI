@@ -16,7 +16,7 @@ An automated system to extract, store, and track applicant details from resumes 
 
 ## 📂 Project Structure
 ```
-Project2-HCL-GUVI/
+Project3-HCL-GUVI/
 │── app.py                 # Entry point (Streamlit UI)
 │── requirements.txt
 │── README.md
